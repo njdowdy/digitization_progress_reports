@@ -1,0 +1,51 @@
+,Coden,SCAN,"SCAN
+(project period only)","SCAN
+(project period 
+& relevant orders)",GBIF?,"Total proposed 
+transcribed records","Reported records 
+(TPT tracking)
+(transcribed records)","Transcription 
+Progress %","Proposed 
+scanned vials","Scanned
+vials","Scanned vials
+progress","Proposed 
+scanned slides","Scanned
+slides","Scanned slides
+progress","High Res (?)
+Images proposed
+(proposal table)","High Res Images
+finished","High Res Images
+progress",Notes,"Total all combined
+records proposed","Total all combined
+records finished","Overall combined
+progress/finished"
+TOTALS for all TPT:,,"5,028,470","4,525,690","522,023",,"1,263,136","368,387",29.2%,"147,512","41,411",28.1%,"648,999","234,863",36.2%,"33,543","7,277",21.7%,,"2,093,190","651,938",31.1%
+Collections:,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Academy of Natural Sciences Entomology Collection – ParasiteTracker (ANSP-PARA) (ANS),ANSP | ANS,0,,,no,"28,519","5,842",20.5%,"21,200","1,226",5.8%,"7,289","6,463",88.7%,30,359,1196.7%,,"57,038","13,890",24.4%
+Bernice P. Bishop Museum (HSMNCH-BPBM) ,BPBM,0,,,yes*,"70,000","8,180",11.7%,"35,000","14,652",41.9%,"10,000","4,744",47.4%,4500,960,21.3%,,"119,500","28,536",23.9%
+Brigham Young University Arthropod Museum (BYU-BYUC) ,BYU | BYUC,"178,066","40,190","6,677",yes,"79,200","2,597",3.3%,0,0,,"79,200","2,597",3.3%,0,0,,,"158,400","5,194",3.3%
+California Academy of Sciences Entomology (CAS-ENT) ,CAS,"259,860",0,,no,"99,840","15,025",15.0%,"6,289",0,0.0%,0,0,n/a,5241,1230,23.5%,,"111,370","16,255",14.6%
+Clemson University Arthropod Collection (CU-CUAC) ,CU | CUAC,"33,092","22,598",395,yes,"14,640","7,599",51.9%,"9,370","1,300",13.9%,0,0,n/a,200,0,0.0%,,"24,210","8,899",36.8%
+"Field Museum of Natural History Collection of Insects, Arachnids, and Myriapods (FMNH-FMNHINS) ",FMNH,"462,736","461,929","42,460",yes,"198,000","10,660",5.4%,"6,000",0,0.0%,"189,000","26,260",13.9%,809,0,0.0%,,"393,809","36,920",9.4%
+Illinois Natural History Survey Insect Collection (INHS-INHSIC) ,INHS,"656,321","656,321","88,117",yes,"73,258","19,979",27.3%,"9,906","5,296",53.5%,"13,111","10,813",82.5%,400,348,87.0%,,"96,675","36,436",37.7%
+"Milwaukee Public Museum, Invertebrate Zoology-Insect Collection (MPM-MPM ENT) ",MPM,"48,477",1,0,yes,"2,700","1,597",59.1%,"1,500",0,0.0%,"1,000","1,228",122.8%,200,0,0.0%,,"5,400","2,825",52.3%
+Museum of Southwestern Biology Division of Parasitology - ParasiteTracker (MSB-PARA) (University of New Mexico),MSB | UNM,"31,704","31,704","9,696",no,"43,000","1,617",3.8%,"18,500","2,140",11.6%,200,"1,500",750.0%,0,618,#DIV/0!,,"61,700","5,875",9.5%
+The Albert J. Cook Arthropod Research Collection (MSU-MSUC) ,MSU,"302,514","60,458","11,104",yes,"36,000","11,902",33.1%,530,0,0.0%,"2,100","1,100",52.4%,10000,0,0.0%,,"48,630","13,002",26.7%
+Ohio State C.A. Triplehorn Insect Collection (OSU-OSU) /OSAL,OSU,"556,892","14,983","2,347",yes,"6,000","6,819",113.7%,0,0,,"6,000","1,000",16.7%,0,0,n/a,,"12,000","7,819",65.2%
+The Purdue Entomological Research Collection (PU-PERC) ,PU | PERC,"60,014","26,948","5,136",no,"27,600","6,404",23.2%,300,0,0.0%,0,0,n/a,300,0,0.0%,,"28,200","6,404",22.7%
+Frost Entomological Museum (Penn State University) (PSU),PSU,"136,791","76,933","6,459",yes,"38,301","19,112",49.9%,"8,301",801,9.6%,500,"2,139",427.8%,200,0,0.0%,,"47,302","22,052",46.6%
+Texas A&M University Insect Collection (TAMU-TAMUIC) ,TAMU,"1,046,105","999,763","263,953",yes,"165,000","43,182",26.2%,"13,595","13,595",100.0%,"23,452","4,573",19.5%,500,0,0.0%,,"202,547","61,350",30.3%
+University of California Santa Barbara Invertebrate Zoology Collection (UCSB-IZC) ,UCSB,"32,073","27,865","5,648",yes,0,0,,0,0,,0,0,n/a,0,0,n/a,,n/a,0,n/a
+University of Hawaii Insect Museum (UHIM-UHIM) ,UH | UHIM,"126,338","1,581","1,520",yes,"11,316","5,018",44.3%,0,0,,"4,600","3,402",74.0%,4600,95,2.1%,,"20,516","8,515",41.5%
+"University of Michigan Museum of Zoology, Division of Insects (UMMZ-UMMZI) ",UMMZ | UM | UMMZI,"363,999","113,821","28,311",yes,"180,000","96,795",53.8%,0,0,,"180,000","39,655",22.0%,0,259,#DIV/0!,,"360,000","136,709",38.0%
+University of Minnesota Insect Collection (MIN-UMSP) ,UMSP | UMN,"239,798","192,342","4,084",yes,"56,252",0,0.0%,0,0,,"56,204","94,495",168.1%,48,0,0.0%,lots of scanned slides- just not transcribed?,"112,504","94,495",84.0%
+University of New Hampshire (UNH),UNH,"17,840",0?,,yes,"30,000","48,611",162.0%,"1,000",0,0.0%,"1,000",0,0.0%,4500,0,0.0%,,"36,500","48,611",133.2%
+Nebraska State Museum - ParasiteTracker (UNL-NSM) ,UNL | HWML,"60,965","60,965",,no,"10,000","3,666",36.7%,0,0,,"10,000","18,280",182.8%,0,0,n/a,Transcribed records are in available and summarized in Arctos: https://arctos.database.museum/SpecimenResults.cfm?media_type=any&guid_prefix=HWML:Para,"20,000","21,946",109.7%
+"Price Institute of Parasite Research, School of Biological Sciences, University of Utah (UTAH-PIPR) ",UU | PIPR | UTAH,"8,186","4,777","2,710",yes,"48,000","10,786",22.5%,"8,300",0,0.0%,"39,700","10,186",25.7%,0,0,n/a,,"96,000","20,972",21.8%
+University of Wisconsin-Stevens Point (UWSP-ENT) ,UWSP,"4,746","4,746","4,746",yes,"9,280","3,190",34.4%,0,0,,"9,280","3,019",32.5%,0,0,n/a,,"18,560","6,209",33.5%
+Wisconsin Insect Research Collection (WIS-IH-WIRC) ,UWM | WIRC,"26,623","20,158","20,111",no,"19,985","22,379",112.0%,"6,426",0,0.0%,"13,053",0,0.0%,0,0,n/a,,"39,464","22,379",56.7%
+Yale Peabody Museum (YPM),YPM,"373,969","329,951","17,378",yes,"16,245","17,427",107.3%,"1,295","2,401",185.4%,"3,310","3,409",103.0%,2015,3408,169.1%,,"22,865","26,645",116.5%
+Denver Museum of Nature & Science - Parasites,DMNS,"1,096","1,096","1,096",,0,0,,0,0,,0,0,,0,0,,,n/a,0,n/a
+Northern Arizona University,NAU,265,265,75,,0,0,,0,0,#DIV/0!,0,0,,0,0,,,0,0,n/a
+Carnegie Museum of Natural History (new PEN fall 2021),CMNH,0,,,,0,X,,X,0,,X,0,,X,0,,,#VALUE!,#VALUE!,
