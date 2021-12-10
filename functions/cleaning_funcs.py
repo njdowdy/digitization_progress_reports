@@ -21,6 +21,7 @@ def clean_import(df: pd.DataFrame):
                               'reported_hires_images'], axis=1)
     df_out = df_out.replace(['X', '?', 'NA'], '0')
     df_out = df_out.apply(lambda x: pd.to_numeric(x.str.replace(',', '')) if x.name in list(df_out.columns[2:]) else x)
+    df_out.columns = df_out.columns.str.strip()
     return df_out
 
 
@@ -40,4 +41,8 @@ def wide_to_long(df: pd.DataFrame):
                        'class',
                        'type',
                        'value']]
+    df_long = df_long.pivot_table(values='value',
+                                  index=['collection_name', 'collection_code', 'type'],
+                                  columns=['class'])
+    df_long.reset_index(inplace=True)
     return df_long
