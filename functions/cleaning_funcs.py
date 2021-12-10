@@ -24,6 +24,13 @@ def clean_import(df: pd.DataFrame):
     return df_out
 
 
+def make_totals_row(df: pd.DataFrame):
+    df_out = df.append(df.sum(numeric_only=True), ignore_index=True)
+    df_out.at[len(df_out) - 1, 'collection_name'] = 'TPT_TOTAL'
+    df_out.at[len(df_out) - 1, 'collection_code'] = 'TPT'
+    return df_out
+
+
 def wide_to_long(df: pd.DataFrame):
     df_long = df.melt(id_vars=['collection_name', 'collection_code'])
     df_long[['class', 'type']] = df_long['variable'].str.split('_', 1, expand=True)
@@ -33,3 +40,4 @@ def wide_to_long(df: pd.DataFrame):
                        'class',
                        'type',
                        'value']]
+    return df_long
