@@ -23,8 +23,9 @@ and generates a figure like this:
   :width: 500
   :alt: A digitization effort plot
 
-As a starting point, try the data template file :ref:`here digitization_progress_reports/input/input_template.csv`:
+As a starting point, try the data template file `here <https://github.com/njdowdy/digitization-progress-reports/digitization_progress_reports/input/input_template.csv>`_.
+
 
 CONTACT
 ----------
-Please report issues or questions :ref:`here <https://github.com/njdowdy/digitization-progress-reports/issues>`
+Please report issues or questions `here <https://github.com/njdowdy/digitization-progress-reports/issues>`_.
