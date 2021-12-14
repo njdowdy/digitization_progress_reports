@@ -10,11 +10,11 @@ def create_percentages(df: pd.DataFrame):
 
 def calculate_statistics(
     df: pd.DataFrame,
-    t_start=0,
-    t_present=28,
-    t_end=36,
-    t_extended=48,
-    checkpoint_completion=60,
+    t_start: int = 0,
+    t_present: int = 28,
+    t_end: int = 36,
+    t_extended: int = 48,
+    checkpoint_completion: int = 60,
 ):
     df_out = pd.DataFrame()
     for idx, row in df.iterrows():

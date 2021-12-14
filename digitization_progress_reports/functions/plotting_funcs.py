@@ -6,12 +6,12 @@ from matplotlib import pyplot as plt
 
 def create_plots(
     df: pd.DataFrame,
-    t_start=0,
-    t_present=28,
-    t_end=36,
-    t_extended=48,
-    output_path="output/figures/",
-    annotations=True,
+    t_start: int = 0,
+    t_present: int = 28,
+    t_end: int = 36,
+    t_extended: int = 48,
+    output_path: str = "output/figures/",
+    annotations: bool = True,
 ):
     annotate_line = annotations
     base_font_size = 24
