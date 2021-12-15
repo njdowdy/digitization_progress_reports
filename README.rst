@@ -23,14 +23,14 @@ and generates a figure like this:
   :width: 500
   :alt: A digitization effort plot
 
-As a starting point, try the data template file `here <https://github.com/njdowdy/digitization-progress-reports/blob/master/digitization_progress_reports/input/input_template.csv>`_.
+As a starting point, try the data template file `here <https://github.com/njdowdy/digitization_progress_reports/blob/master/digitization_progress_reports/input/input_template.csv>`_.
 
 HOW TO USE
 ^^^^^^^^^^
 
 #. Install ``poetry`` (see: `here <https://python-poetry.org/docs/#installation>`_) on your system
 #. Run from the directory of your choice:
-    - ``git clone https://github.com/njdowdy/digitization-progress-reports.git``
+    - ``git clone https://github.com/njdowdy/digitization_progress_reports.git``
     - ``cd digitization-progress-reports``
     - ``poetry install``
     - ``source`poetry env info --path`/bin/activate``
@@ -46,4 +46,4 @@ To update the source code:
 
 CONTACT
 ^^^^^^^^^^
-Please report issues or questions `here <https://github.com/njdowdy/digitization-progress-reports/issues>`_.
+Please report issues or questions `here <https://github.com/njdowdy/digitization_progress_reports/issues>`_.
