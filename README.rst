@@ -42,7 +42,7 @@ HOW TO USE
     - ``deactivate``
 
 To update the source code:
-    #. ``git update origin``
+    #. ``git pull origin``
 
 CONTACT
 ^^^^^^^^^^
