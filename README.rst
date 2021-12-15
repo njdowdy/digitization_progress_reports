@@ -31,7 +31,7 @@ HOW TO USE
 #. Install ``poetry`` (see: `here <https://python-poetry.org/docs/#installation>`_) on your system
 #. Run from the directory of your choice:
     - ``git clone https://github.com/njdowdy/digitization_progress_reports.git``
-    - ``cd digitization-progress-reports``
+    - ``cd digitization_progress_reports``
     - ``poetry install``
     - ``source`poetry env info --path`/bin/activate``
 #. Add your files to process into ``digitization_progress_reports/input/``
