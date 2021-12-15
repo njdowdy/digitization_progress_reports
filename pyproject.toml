@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "digitization-progress-reports"
+name = "digitization_progress_reports"
 version = "0.1.0"
 description = ""
 authors = ["Nicolas J. Dowdy <njdowdy@gmail.com>"]
