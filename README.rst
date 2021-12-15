@@ -27,8 +27,8 @@ As a starting point, try the data template file `here <https://github.com/njdowd
 
 HOW TO USE
 ^^^^^^^^^^
-
-#. Install ``poetry`` (see: `here <https://python-poetry.org/docs/#installation>`_) on your system
+#. Ensure ``python3`` is installed on your system (see: `here <https://www.python.org/downloads/>`_)
+#. Install ``poetry`` on your system (see: `here <https://python-poetry.org/docs/#installation>`_)
 #. Run from the directory of your choice:
     - ``git clone https://github.com/njdowdy/digitization_progress_reports.git``
     - ``cd digitization_progress_reports``
