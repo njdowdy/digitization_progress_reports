@@ -8,12 +8,12 @@ More generally, for a series of entities (e.g., "Collections") and a series of a
 (e.g., "High Resolution Images"), this project takes a count of:
 
 #. Total proposed units of activity
-#. Total completed units of activity
+#. Completed units of activity
 
 combined with:
 
 #. Project Start
-#. Present
+#. Present Time Point
 #. Project End
 #. Project Extension End
 
