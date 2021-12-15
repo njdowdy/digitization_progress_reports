@@ -34,7 +34,7 @@ HOW TO USE
     - ``cd digitization_progress_reports``
     - ``poetry install``
     - ``source`poetry env info --path`/bin/activate``
-#. Add your files to process into ``digitization_progress_reports/input/``
+#. Add your file to process into ``digitization_progress_reports/input/``
 #. Adjust ``script.py`` to reflect the path to your file and adjust other options as needed
 #. Run:
     - ``python script.py``
