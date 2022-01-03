@@ -2,8 +2,9 @@ version: "3"
 
 services:
   reports:
-    container_name: digireports
+    container_name: ${APP_NAME}
     build:
-      context: ./app
+      context: ./${APP_NAME}
+    working_dir: /mnt/${APP_NAME}
     volumes:
-      - ./app:/mnt/app
+      - ./${APP_NAME}:/mnt/${APP_NAME}

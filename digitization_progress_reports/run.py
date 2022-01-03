@@ -1,11 +1,11 @@
-import digitization_progress_reports as d
+import application as d
 
-mypath = "digitization_progress_reports/input/input_template.csv"
-# mypath = "digitization_progress_reports/input/TPT Digi Numbers Reported - Year3 AugOct21.csv"
-myoutput = "digitization_progress_reports/output/figures/"
+mypath = "application/input/input_template.csv"
+# mypath = "application/input/TPT Digi Numbers Reported - Year3 AugOct21.csv"
+myoutput = "application/output/figures/"
 
 
-def main(path: str, output: str) -> None:
+def entrypoint(path: str, output: str) -> None:
     df = d.clean.import_data(path)  # import data [see 'input/input_template.csv']
     df = d.clean.clean_import_template(df)  # clean data [if following template]
     # df = d.clean.clean_import_tpt(df)  # clean data [TPT-specific formatting]
@@ -17,4 +17,4 @@ def main(path: str, output: str) -> None:
 
 
 if __name__ == "__main__":
-    main(mypath, myoutput)
+    entrypoint(mypath, myoutput)
