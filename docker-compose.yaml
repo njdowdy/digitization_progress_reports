@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  reports:
+    container_name: digireports
+    build:
+      context: ./app
+    volumes:
+      - ./app:/mnt/app
