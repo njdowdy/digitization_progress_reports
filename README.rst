@@ -19,11 +19,11 @@ combined with:
 
 and generates a figure like this:
 
-.. image:: digitization_progress_reports/output/example.png
+.. image:: digitization_progress_reports/application/output/example.png
   :width: 500
   :alt: A digitization effort plot
 
-As a starting point, try the data template file `here <https://github.com/njdowdy/digitization_progress_reports/blob/master/digitization_progress_reports/input/input_template.csv>`_.
+As a starting point, try the data template file `here <https://github.com/njdowdy/digitization_progress_reports/blob/master/digitization_progress_reports/application/input/input_template.csv>`_.
 
 HOW TO USE
 ^^^^^^^^^^
