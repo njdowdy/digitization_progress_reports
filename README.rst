@@ -33,7 +33,7 @@ HOW TO USE
     - ``git clone https://github.com/njdowdy/digitization_progress_reports.git``
     - ``cd digitization_progress_reports``
     - ``poetry install``
-    - ``source`poetry env info --path`/bin/activate``
+    - ``source `poetry env info --path`/bin/activate``
 #. Add your file to process into ``digitization_progress_reports/input/``
 #. Adjust ``script.py`` to reflect the path to your file and adjust other options as needed
 #. Run:
