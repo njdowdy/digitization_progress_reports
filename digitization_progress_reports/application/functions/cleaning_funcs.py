@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 
 def import_data(path: str):
@@ -7,7 +8,7 @@ def import_data(path: str):
 
 
 def clean_import_template(df: pd.DataFrame):
-    df_out = df.replace(["X", "?", "NA"], "0")
+    df_out = df.replace(["X", "?", "NA", "NaN", np.NaN], "0")
     df_out = df_out.apply(
         lambda x: pd.to_numeric(x.astype(str).str.replace(",", ""))
         if x.name in list(df_out.columns[2:])
