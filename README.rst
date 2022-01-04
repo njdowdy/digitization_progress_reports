@@ -34,7 +34,8 @@ HOW TO USE
     - ``cd digitization_progress_reports``
 #. Add your file to process into ``digitization_progress_reports/application/input/``
 #. Adjust ``application/run.py`` to reflect the path to your file and adjust other options as needed
-#. Run: ``sudo make dc-start`` or ``sudo make dc-start-verbose``
+#. Copy ``.env.example`` to a ``.env`` file within the same directory and adjust the environment variables as needed (it is recommended to keep the contents as is)
+#. Run: ``sudo make dc-start`` or ``sudo make dc-start-verbose`` to monitor console output
 
 **All commands**
 ----
